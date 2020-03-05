@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
 
 
   spec.description  = <<-DESC
-测试
+                            测试
                    DESC
 
   spec.homepage     = "https://github.com/LessYellowFish/TestcocoaPods"
@@ -23,10 +23,12 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/LessYellowFish/TestcocoaPods.git", :tag => "#{spec.version}" }
 
+#spec.framework  = "UIKit"
 
 
-  spec.source_files  = "TestcocoaPods", "TestcocoaPods/TestcocoaPods/*.{h,m}"
-  spec.exclude_files = "TestcocoaPods/TestcocoaPods"
+
+  spec.source_files  = "TestcocoaPods/*.{h,m}"
+# spec.exclude_files = "TestcocoaPods/TestcocoaPods"
 
 
 
