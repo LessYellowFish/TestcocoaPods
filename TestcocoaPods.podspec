@@ -27,8 +27,8 @@ Pod::Spec.new do |spec|
 
 
 
-  spec.source_files  = "TestcocoaPods/*.{h,m}"
-# spec.exclude_files = "TestcocoaPods/TestcocoaPods"
+  spec.source_files  = "TestcocoaPods/TestcocoaPods/*.{h,m}"
+  spec.exclude_files = "Class/Exclude"
 
 
 
