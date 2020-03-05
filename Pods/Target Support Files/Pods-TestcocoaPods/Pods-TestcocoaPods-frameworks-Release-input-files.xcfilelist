@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-TestcocoaPods/Pods-TestcocoaPods-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CNMBless/CNMBless.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework

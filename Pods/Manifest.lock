@@ -1,0 +1,21 @@
+PODS:
+  - CNMBless (1.0.0)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - CNMBless
+  - Masonry
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
+  trunk:
+    - CNMBless
+
+SPEC CHECKSUMS:
+  CNMBless: c7f9cc4b7b01dfc65a37e8c6f28ab496c5b509d6
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: fe699aa12e2081ba469f0edfee7f419f45eabbf7
+
+COCOAPODS: 1.9.0
