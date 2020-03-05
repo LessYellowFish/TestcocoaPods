@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "TestcocoaPods"
-  spec.version      = "0.0.1"
+  spec.version      = "1.2.1"
   spec.summary      = "A short description of TestcocoaPods."
 
 
